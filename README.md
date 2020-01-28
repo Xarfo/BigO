@@ -1,2 +1,0 @@
-# BigO
-Created with CodeSandbox
